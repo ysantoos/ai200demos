@@ -1,2 +1,2 @@
 # ai200coursedemos
-Demos for my new AI-200 course on Udemy
+Demos for test some concepts of AI-200 certification
